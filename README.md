@@ -1,0 +1,1 @@
+<img src="https://steamuserimages-a.akamaihd.net/ugc/963096426582123478/99147810AD48AF17B9D42A86212CB2164E2C179A/?imw=512&imh=248&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" style="display: flex; justify-content: center;" />
